@@ -1,0 +1,32 @@
+.first{
+margin-top: 30px;
+float:right;
+width: 180px;
+padding-left: 0.5rem;
+display: flex;
+
+
+}
+
+.first{
+    background-color: indigo;
+    color: whitesmoke;
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    
+  }
+  .btn{
+   
+    margin-left: 2rem;  
+    background-color: white;
+    color: white;
+  }
+  .second{
+    width: 350px;
+    height: auto;
+    margin-top: 20px;
+    float: left;
+    padding-left: 50px;
+    background-color: green;
+  }
